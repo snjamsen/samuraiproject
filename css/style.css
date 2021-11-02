@@ -3,11 +3,6 @@
     font-family: 'Saira Condensed', sans-serif;
 */
 
-:root {
-    --black: #000;
-    --white: #fff;
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -664,7 +659,6 @@ header button {
     font-family: 'Saira', sans-serif;
     font-size: 16px;
     color: #fff;
-    /* line-height: 25vh; */
     text-shadow: 0 0 4px black;
     background-color: rgba(0,0,0,.5);
     padding: 5px 0;
@@ -875,19 +869,3 @@ footer {
     line-height: 5vh;
     margin: 0 auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/**/
