@@ -1,1 +1,0 @@
-My study HTML/CSS project
