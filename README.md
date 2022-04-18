@@ -1,1 +1,1 @@
-# my studdy HTML/CSS project
+# My studdy HTML/CSS project
